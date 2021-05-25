@@ -1,5 +1,18 @@
 ### Hola, I,m Akshay Kumar 👋
 
+
+<br/>
+
+- 🔭 I’m currently working on Full Stack Projects.
+- 🌱 I’m currently learning everything.
+- 💬 Ask me about anything related to tech.
+- 📫 How to reach me: @i_Akshay09
+- 😄 Pronouns: He/His
+
+<br />
+
+### Connect with me:
+
 <a href="https://twitter.com/i_Akshay09">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,15 +23,6 @@
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
-<br/>
-
-- 🔭 I’m currently working on Full Stack Projects.
-- 🌱 I’m currently learning everything.
-- 💬 Ask me about anything related to tech.
-- 📫 How to reach me: @i_Akshay09
-- 😄 Pronouns: He/His
-
-<br />
 
 ### Languages and Tools:
 
