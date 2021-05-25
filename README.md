@@ -3,7 +3,7 @@
 <h2 align="center">Hola, I,m Akshay Kumar 👋 </h2>
 
 
-<h4 align="center">🚀 MERN Stack | Open Source ♥ | Devops | Competitive Programmer | ♥ DS and Algos 🚀</h4>
+<h4 align="center">🚀 MERN Stack | Open Source ♥ | Devops | Competitive Programmer | ♥ DS and Algos | Tech Blogger 🚀</h4>
 
 
 <br/>
@@ -24,7 +24,10 @@
   <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Akshay1018">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://aakshay07.medium.com/">
+  <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br/>
 
