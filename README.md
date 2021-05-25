@@ -9,7 +9,6 @@
 - 📫 How to reach me: @i_Akshay09
 - 😄 Pronouns: He/His
 
-<br />
 
 ### Connect with me:
 
