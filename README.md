@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full Stack Projects.
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about anything related to tech.
-- 📫 How to reach me: @i_Akshay09
+- 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
 - 😄 Pronouns: He/His
 
 
