@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m currently working on Full Stack Projects.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently Exploring new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
 - 😄 Pronouns: He/His
