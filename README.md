@@ -2,6 +2,8 @@
 
 ### Hola, I,m Akshay Kumar 👋
 
+<h3 align="center">🚀 MERN Stack | Open Source ♥ | Devops | Competitive Programmer | ♥ DS and Algos 🚀</h3>
+
 
 <br/>
 
