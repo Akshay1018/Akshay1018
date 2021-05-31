@@ -3,7 +3,7 @@
 <h2 align="center">Hola, I,m Akshay Kumar 👋 </h2>
 
 
-<h4 align="center">🚀 MERN Stack | Open Source ♥ | Devops | Competitive Programmer | ♥ DS and Algos | Tech Blogger 🚀</h4>
+<h4 align="center">🚀 MERN Stack | Open Source ♥ | Competitive Programmer | DS and Algos ♥ | Tech Blogger 🚀</h4>
 
 
 <br/>
