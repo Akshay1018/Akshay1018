@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h2 align="center">Hola, I,m Akshay Kumar 👋 </h2>
+<h2 align="center">Hola, I'm Akshay Kumar 👋 </h2>
 
 
 <h4 align="center"> MERN Stack | Open Source ♥ | Competitive Programmer | DS and Algos ♥ | Tech Blogger</h4>
