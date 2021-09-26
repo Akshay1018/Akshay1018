@@ -8,8 +8,8 @@
 
 <br/>
 
-- 🔭 I’m currently working as a Full-Stack developer.
-- 🌱 I’m currently Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 I’m a Full-Stack developer.
+- 🌱 Love to explore new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
 - 😄 Pronouns: He/His
