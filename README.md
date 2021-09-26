@@ -13,7 +13,6 @@
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
 - 😄 Pronouns: He/His
-- #️⃣ Portfolio:  https://akshay-portfolio.netlify.app/
 
 
 ### Connect with me:
