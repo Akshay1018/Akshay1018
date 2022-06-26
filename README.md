@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h2 align="center">Hola, I'm Akshay Kumar 👋 </h2>
+<h2 align="center">👋Hola!, I'm Akshay</h2>
 
 
 <h4 align="center"> MERN Stack | Open Source ♥ | Competitive Programmer | DS and Algos ♥ | Tech Blogger</h4>
@@ -12,6 +12,7 @@
 - ♥ Love to explore new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
+- 👋 My portfolio: [iakshay](https://iakshay.is-a.dev/)
 - 😄 Pronouns: He/His
 
 
