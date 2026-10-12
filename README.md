@@ -8,8 +8,8 @@
 
 <br/>
 
-- 🔭 I’m a Full-Stack developer.
-- ♥ Love to explore new technologies and developing software solutions and quick hacks.
+- 🔭 Software Engineer passionate about backend engineering, system design, and solving complex problems. Currently 🚀 building something ambitious in stealth, targeting Q1 2027.
+- ♥ Love to explore new technologies and develop software solutions and quick hacks.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [Twitter- @i_Akshay09](https://twitter.com/i_Akshay09)
 - 👋 My portfolio: [iakshay](https://iakshay.is-a.dev/)
